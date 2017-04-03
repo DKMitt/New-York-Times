@@ -11,7 +11,7 @@
 
 ```javascript
 
-TO DO's
+TO DOs
 
 	* Clear Button, remove or add code to clear page
 	
