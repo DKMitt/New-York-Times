@@ -1,0 +1,20 @@
+.jumbotron {
+    background-color:darkblue !important; 
+	color: white;
+	font-weight: 400px;
+}
+
+.searchPar {
+    background-color:darkblue !important; 
+
+}
+
+.panel-heading {
+	color: white;
+	font-weight: 400px;
+}
+
+.panel-title {
+	color: white;
+	font-weight: 400px;
+}
