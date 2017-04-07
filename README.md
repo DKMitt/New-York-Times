@@ -7,10 +7,10 @@ based on search parameters.
  
 
 ```
+
 ![New York Times API](assets/images/nyt-api.jpg)
 
-<br>
->>>>>>> master
+
 N.C.B.C. In Class Group Project
 
 ```javascript
