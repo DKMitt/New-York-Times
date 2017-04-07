@@ -8,7 +8,7 @@ based on search parameters.
 
 ```
 <br>
-## N.C.B.C. In Class Group Project
+N.C.B.C. In Class Group Project
 
 ```javascript
 
@@ -26,7 +26,7 @@ based on search parameters.
 
 ```
 <br>
-## Revision History
+Revision History
 
 ```javascript
 
